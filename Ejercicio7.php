@@ -9,6 +9,6 @@ echo "El numero mayor es:" . $num1;
     echo "El numero mayor es:" . $num2;
     }
 echo "<div style='text-align: right; margin-top: 40px;'>";
-echo "<a href='index.php'>Volver al Menú Principal</a>";
+echo "<a href='index.html'>Volver al Menú Principal</a>";
 echo "</div>";
 ?>
