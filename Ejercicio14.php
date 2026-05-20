@@ -8,6 +8,6 @@ if ($metros >= 2){
     echo $metros . " metro, equivale a " . $calculado . " centimetros";
 }
 echo "<div style='text-align: right; margin-top: 40px;'>";
-echo "<a href='index.php'>Volver al Menú Principal</a>";
+echo "<a href='index.html'>Volver al Menú Principal</a>";
 echo "</div>";
 ?>
